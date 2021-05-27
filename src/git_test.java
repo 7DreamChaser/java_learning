@@ -3,5 +3,6 @@ public class git_test {
         System.out.println("first commit");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("push test");
     }
 }
